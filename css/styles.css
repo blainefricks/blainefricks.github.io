@@ -1,0 +1,110 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+     -moz-font-smoothing: antialiased;
+      -ms-font-smoothing: antialiased;
+       -o-font-smoothing: antialiased;
+          font-smoothing: antialiased;
+  -webkit-transition: 0.2s;
+     -moz-transition: 0.2s;
+      -ms-transition: 0.2s;
+          transition: 0.2s;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, textarea, table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+  line-height: 1.5em;
+}
+body {
+  font: normal 100% "Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
+  /*color: #fff;*/
+  /*background-color: #333;*/
+  text-align: left;
+}
+.current-version:after {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  content: "0.1.2";
+  font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
+  text-align: right;
+  color: #666;
+  display: table;
+  padding: 5px;
+  z-index: 999;
+}
+
+.homeHero {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-color: #ff0000;
+  color: #fff;
+}
+
+.line {
+  zoom: 1;
+}
+.unit {
+  overflow: hidden;
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.lastUnit {
+  overflow: hidden;
+  float: none;
+  width: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.group {
+  overflow: hidden;
+  float: left;
+}
+.lastGroup {
+  float: none;
+  width: auto;
+}
+/* Grid System
+--------------------------------------------- */
+.size1of8 {width: 12.5%;}
+.size1of4,
+.size2of8 {width: 25%;}
+.size1of3 {width: 33.33333333333333%;}
+.size3of8 {width: 37.5%;}
+.size1of2,
+.size2of4,
+.sixe4of8 {width: 50%;}
+.size5of8 {width: 62.5%;}
+.size2of3 {width: 66.66666666666667%;}
+.size3of4,
+.size6of8 {width: 75%;}
+.size7of8 {width: 87.5%;}
+.size1of1,
+.size2of2,
+.size3of3,
+.size4of4,
+.size8of8 {width: 100%;}
+@media screen and (max-width: 60em) {
+  .size1of8 {width: 50%;}
+}
+@media screen and (max-width: 40em) {
+  .size1of8,
+  .size1of4, .size2of8,
+  .size1of3,
+  .size3of8,
+  .size1of2, .size2of4, .sixe4of8,
+  .size5of8,
+  .size2of3,
+  .size3of4, .size6of8,
+  .size7of8,
+}
