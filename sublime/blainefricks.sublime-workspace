@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"device",
+				"device-link"
+			],
+			[
+				"popup",
+				"popup-open"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fff",
+				"f2f2f2"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"slide",
+				"slide2"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nav",
+				"navDrawer"
+			],
+			[
+				"pro",
+				"productAppName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Robo",
+				"Roboto-Bold"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"Back",
+				"background-color"
+			],
+			[
+				"Margin",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/footer.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/header.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/VZW-CNID-Prod.sublime-project",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/style.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/wp-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/ios-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/index.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/prototype/bb-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/prototype/bb-features-green.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/prototype/android-features-green.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/prototype/android-features-red.php",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/css/style.css",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/js/br.js",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/bb-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/wp-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/ios-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/android-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/html/device-popup.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/footer.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/header.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/index.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Prototype/supported-device-features/sp-features.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/Demo/cequint-prod.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/css/master.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v4.0/WordPress/style.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v4.0/WordPress/footer.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v4.0/WordPress/header.php",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/html/cnid-productpage-v1.1.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/steve/cnid/index.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/steve/cnid/master.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/html/coming-soon.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/css/specs.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/html/main.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/html/main.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/Web/css/master.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TSD 2014/TNS Telecom/Web/css/master.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TSD 2014/TNS Telecom/Web/html/main.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TNS/Telecom/Web/css/master.css",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TNS/Telecom/Web/html/main.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TNS/Telecom/Web/home.html",
+		"/Users/blainefricks/Desktop/_Desktop/Cequint/Projects/TNS/Telecom/Web/home",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/html/story.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/html/ui-library.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/html/versions.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/css/animations.css",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/html/grids.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/html/patterns.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Nav Drawer/slide.js",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/html/index.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/LoadingSpinner/loadingSpinner.html",
+		"/Users/blainefricks/Desktop/Cequint/Projects/Verizon/Caller Name ID/Product Page/v2.0/html/vzw-cnid.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/css/master.css",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/main.html",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/blaine-report/README.md",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/html/home.html",
+		"/Users/blainefricks/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/blainefricks/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/blainefricks/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/html/typography.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Victor Erixon/The Pony Express Mail/master.css",
+		"/Users/blainefricks/Google Drive/Personal/GitHub/netfricks/html/Patterns/grids.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Slideshow/slideshow.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Slideshow/master.css",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Victor Erixon/The Pony Express Mail/ponymail.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Victor Erixon/The Pony Express Mail/master.js",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Slideshow/slideshow.js",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Nav Drawer/master.css",
+		"/Users/blainefricks/Google Drive/Personal/HTML/Nav Drawer/nav-drawer.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/iOS7/Home Screen/home.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/iOS7/Home Screen/master.css",
+		"/Users/blainefricks/Google Drive/Personal/HTML/LoadingSpinner/master.css",
+		"/Users/blainefricks/Google Drive/Personal/HTML/LoadingSpinner/slide.js",
+		"/Users/blainefricks/Desktop/Cequint/Projects/Verizon/CSS/Splash Screen/splash-screen.html",
+		"/Users/blainefricks/Desktop/Cequint/Brand Guidelines/Carrier/ATT Brand Guidelines/ATTstyles/footer.html",
+		"/Users/blainefricks/Desktop/Cequint/Brand Guidelines/Carrier/ATT Brand Guidelines/ATTstyles/header.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/iOS7/foursquare/4sqr-ios7.html",
+		"/Users/blainefricks/Desktop/Cequint/Projects/Verizon/CSS/vzw-css.html",
+		"/Users/blainefricks/Google Drive/Personal/HTML/iOS7/foursquare/master.css",
+		"/Volumes/sharing/Design Resources 2013/Current Projects/Verizon/VZW Rebrand/VZW-Redlines/vzw-css-specs-v2.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/iOS7/foursquare/master.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/iOS7/foursquare/4sqr-ios7.html",
+		"/Users/blainefricks/Desktop/Cequint/Projects/VZW/CSS/Splash Screen/splash-screen.html",
+		"/Users/blainefricks/Desktop/Cequint/Projects/VZW/CSS/Splash Screen/splash-screen.css",
+		"/Users/blainefricks/Library/Caches/TemporaryItems/ecid-initializing.html",
+		"/Users/blainefricks/Desktop/gradient.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/iOS7/Home Screen/master.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/iOS7/Home Screen/home.html",
+		"/Users/blainefricks/Desktop/gradient.html",
+		"/Users/blainefricks/Desktop/css.css",
+		"/Users/blainefricks/Desktop/Cequint/Projects/VZW/Redlines/VZW-Redlines/vzw-css-specs-v1.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/Nav Drawer/master.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/Nav Drawer/nav-drawer.html",
+		"/Volumes/sharing/Design Resources 2013/Current Projects/Verizon/VZW Rebrand/VZW-Redlines/vzw-css-specs-v1.2.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/Nav Drawer/slide.js",
+		"/Users/blainefricks/Desktop/Cequint/Projects/VZW/Redlines/vzw-css-specs.css",
+		"/Users/blainefricks/Desktop/Cequint/Projects/VZW/CSS/vzw-styles.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/Nav Drawer/vzw-styles.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/javascript.js",
+		"/Users/blainefricks/Desktop/Personal/HTML/styles.css",
+		"/Users/blainefricks/Desktop/Personal/HTML/navdrawer.html",
+		"/Users/blainefricks/Desktop/Cequint/Current Projects/VZW/CSS/vzw-styles.css",
+		"/Users/blainefricks/Desktop/Cequint/Current Projects/VZW/CSS/vzw-css.html",
+		"/Volumes/sharing/Design Resources 2013/Current Projects/Verizon/VZW Rebrand/CSS/vzw-css.html",
+		"/Volumes/sharing/Design Resources 2013/Current Projects/Verizon/VZW Rebrand/CSS/vzw-styles.css",
+		"/Volumes/sharing/BlaineF/CSS/ATT/Button CSS/styles.css",
+		"/Volumes/sharing/BlaineF/CSS/ATT/Button CSS/button.html",
+		"/Users/blainefricks/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/sharing/BlaineF/UI_Element_Kits/CSS3-UI-Kit/CSS3 UI Kit/css/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".vzw",
+			"footer",
+			"http://www.cequint.com/wp-content/uploads/2014/04/ic_launcher_callerid.png",
+			"android-features.php",
+			" vzw\"",
+			".cequint",
+			" cequint\"",
+			".h1",
+			"#android h2",
+			"lg-g2",
+			"z-index",
+			" onclick=\"return popup(this, ",
+			"popup-wrap",
+			"supported-device-features",
+			"content-section",
+			"footer",
+			"http://www.cequint.com/?page_id=584",
+			"meta",
+			"footer",
+			"pageholder",
+			"#android",
+			"ios7",
+			"500px",
+			"content-section",
+			"supportedde",
+			"iphone",
+			"\">\n",
+			"content-section",
+			"fixed",
+			"#android",
+			"width460",
+			"#cnidHero",
+			"content",
+			"id=\"width840\"",
+			"#width",
+			"content-seciton",
+			"top-nav",
+			"input[",
+			"title",
+			"alert title",
+			"your alert title",
+			"pageholder",
+			"pageHolder",
+			"a90329",
+			"segoe",
+			"article",
+			"footer",
+			"selfclear",
+			"content",
+			"\"Segoe UI\",",
+			"333",
+			"segoe ui",
+			".wrap",
+			"menu-active",
+			"segoe UI",
+			"segoe",
+			"wrap",
+			"pulse",
+			"selfclear",
+			"opacity",
+			"#",
+			"h3",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+			" class=\"grid-filler\"",
+			"labels",
+			"s",
+			".slide3#",
+			".slide2#",
+			"screen",
+			"f5f5",
+			"navdrawer",
+			"css",
+			"move",
+			"up",
+			"scroll",
+			"title",
+			"scroll",
+			"392px",
+			"baseline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blainefricks.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v4.0/Prototype/Cequint-v4.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
