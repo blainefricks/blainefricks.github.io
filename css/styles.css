@@ -1,3 +1,15 @@
+.current-version:after {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  content: "0.1.5";
+  font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
+  text-align: right;
+  color: #666;
+  display: table;
+  padding: 5px;
+  z-index: 999;
+}
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -22,6 +34,17 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   font-family: inherit;
   vertical-align: baseline;
   line-height: 1.5em;
+}
+html { /*Fixes issue with fonts becoming too big or small when viewed on mobile devices*/
+  -webkit-text-size-adjust: none;
+  -o-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+}
+nav ul,
+nav ol,
+nav li {
+  list-style: none;
 }
 body {
   font: normal 100% "Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
@@ -57,19 +80,6 @@ h6, .h6 {
   font-size: 1.5em;
   font-weight: 300;
 }
-
-.current-version:after {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  content: "0.1.4";
-  font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
-  text-align: right;
-  color: #666;
-  display: table;
-  padding: 5px;
-  z-index: 999;
-}
 .wrap {
   position: relative;
   height: 100%;
@@ -94,14 +104,7 @@ h6, .h6 {
 }
 nav,
 section,
-footer {
-  width: 100%;
-}
-.section-content {
-  max-width: 1000px;
-  margin: 0px auto;
-  padding: 50px 15px;
-}
+footer {width: 100%;}
 nav {
   position: fixed;
   top: 0;
@@ -109,23 +112,29 @@ nav {
   box-shadow: 0px 1px 3px rgba(0,0,0,0.3), inset 0px -1px rgba(0,0,0,0.1);
   z-index: 99;
 }
-.navigation-content {
+nav ul {
   width: 1000px;
   margin: 0px auto;
-  padding: 15px;
+  padding: 15px 30px;
   color: #fff;
 }
-footer {
-  position: relative;
-  bottom: 0;
-  background-color: #ff0000;
-  color: #fff;
+.content {
+  max-width: 1000px;
+  margin: 0px auto;
+  padding: 50px 15px;
+  zoom: 1;
 }
 section#hero {
   text-align: center;
 }
 section:nth-child(even) {
   background-color: #f5f5f5;
+}
+footer {
+  position: relative;
+  bottom: 0;
+  background-color: #ff0000;
+  color: #fff;
 }
 .line {
   zoom: 1;
