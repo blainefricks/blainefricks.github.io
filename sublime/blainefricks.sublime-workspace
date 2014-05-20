@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ff",
+				"ff0000"
+			],
+			[
 				"padd",
 				"padding"
 			],
@@ -211,6 +215,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 1558,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 3170,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -460,8 +480,75 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1385,
+								1385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2072,
+								2072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 638.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -482,11 +569,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -521,7 +615,7 @@
 		[
 			[
 				"",
-				"~/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v4.0/Prototype/Cequint-v4.sublime-workspace"
+				"~/Desktop/_Desktop/Cequint/Projects/Cequint/Website/v3.0/~/caller-id/verizon/VZW-CNID-Prod.sublime-project"
 			]
 		],
 		"width": 380.0
