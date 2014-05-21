@@ -219,7 +219,7 @@
 			"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/index.html",
 			"settings":
 			{
-				"buffer_size": 1558,
+				"buffer_size": 1260,
 				"line_ending": "Unix"
 			}
 		},
@@ -227,7 +227,7 @@
 			"file": "/Users/blainefricks/Google Drive/Personal/GitHub/blainefricks.github.io/css/styles.css",
 			"settings":
 			{
-				"buffer_size": 3170,
+				"buffer_size": 3819,
 				"line_ending": "Unix"
 			}
 		}
@@ -370,7 +370,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -384,6 +384,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"section-content",
 			".vzw",
 			"footer",
 			"http://www.cequint.com/wp-content/uploads/2014/04/ic_launcher_callerid.png",
@@ -489,15 +490,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1558,
+						"buffer_size": 1260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1385,
-								1385
+								694,
+								694
 							]
 						],
 						"settings":
@@ -507,10 +508,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 105.0,
+						"translation.y": 30.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -525,15 +526,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3170,
+						"buffer_size": 3819,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2072,
-								2072
+								1153,
+								1153
 							]
 						],
 						"settings":
@@ -543,10 +544,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 638.0,
+						"translation.y": 268.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
