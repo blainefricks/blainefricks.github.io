@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.6";
+  content: "0.1.7";
   font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
   text-align: right;
   color: #666;
@@ -136,9 +136,12 @@ footer {
   background-color: #ff0000;
   color: #fff;
 }
-.line {
-  zoom: 1;
+.line {zoom: 1;}
+.line:before, .line:after {
+content: " ";
+display: table;
 }
+.line:after {clear: both;}
 .unit {
   overflow: hidden;
   float: left;
@@ -152,8 +155,14 @@ footer {
   padding-left: 15px;
   padding-right: 15px;
 }
-.group {
+.group, .lastGroup {
   overflow: hidden;
+  -webkit-background-clip: padding-box !important;
+     -moz-background-clip: padding-box !important;
+          background-clip: padding-box !important;
+}
+.group {
+  position: relative;
   float: left;
 }
 .lastGroup {
