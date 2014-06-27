@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.10.3";
+  content: "0.1.10.4";
   background-color: rgba(255,255,255,0.9);
   font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
   text-align: right;
@@ -165,6 +165,8 @@ display: table;
   float: none;
   width: auto;
 }
+.table {display:table;}
+.table-cell {display:table-cell;}
 /* Grid System
 --------------------------------------------- */
 .size1of8 {width: 12.5%;}
