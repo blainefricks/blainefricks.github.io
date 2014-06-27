@@ -2,7 +2,8 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.10.2";
+  content: "0.1.10.3";
+  background-color: rgba(255,255,255,0.9);
   font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
   text-align: right;
   color: #666;
