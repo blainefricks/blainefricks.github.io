@@ -2,11 +2,13 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.10.6";
-  background-color: rgba(255,255,255,0.9);
+  content: "0.1.11";
+  background-color: rgba(255,255,255,0.75);
+  -ms-border-radius: 4px 0px 0px 0px;
+      border-radius: 4px 0px 0px 0px;
   font: normal 0.5em "Consolas","Open Sans","Helvetica Neue","Helvetica","Arial",Sans-Serif;
   text-align: right;
-  color: #666;
+  color: #3087b4;
   display: table;
   padding: 5px;
   z-index: 999;
