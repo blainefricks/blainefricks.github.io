@@ -9,7 +9,7 @@ function changeHeight() {
       "min-height": windowHeight
     });
     $(".page-holder").css({
-      "padding-bottom" : footerHeight
+      "padding-bottom" : footerHeight + 1
     });
 }
 window.addEventListener('resize', changeHeight);
