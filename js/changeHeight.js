@@ -6,7 +6,7 @@ function changeHeight() {
         "height": windowHeight
     });
     $(".window-minheight").css({
-      "min-height": windowHeight
+      "min-height": windowHeight * 2
     });
     $(".page-holder").css({
       "padding-bottom" : footerHeight + 1
