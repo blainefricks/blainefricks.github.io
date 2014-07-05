@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.14";
+  content: "0.1.15";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -56,37 +56,41 @@ body {
 }
 /*Typography
 ---------------------------------------------------*/
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-weight: 300;
+  line-height: 1em;
+  margin-bottom: 0.5em;
+}
 h1, .h1 {
   font-size: 4em;
-  font-weight: 300;
 }
 h2, .h2 {
   font-size: 3.5em;
-  font-weight: 300;
 }
 h3, .h3 {
   font-size: 3em;
-  font-weight: 300;
 }
 h4, .h4 {
   font-size: 2.5em;
-  font-weight: 300;
-}
-h5, .h5 {
-  font-size: 2em;
-  font-weight: 300;
 }
 h5, .h5 {
   font-size: 1.75em;
-  font-weight: 300;
 }
 h6, .h6 {
   font-size: 1.5em;
-  font-weight: 300;
 }
-.bg-blue {
-  background-color: #3087b4 !important;
+p {
+  font-size: 14px;
+  line-height: 2em;
+  margin-bottom: 2em;
 }
+.bg-black {background-color: #000 !important;}
+.bg-blue {background-color: #3087b4 !important;}
 .wrap {
   position: relative;
   height: 100%;
