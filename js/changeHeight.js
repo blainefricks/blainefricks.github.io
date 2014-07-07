@@ -1,4 +1,4 @@
-//hange Height based on Window Height
+// Change Height based on Window Height
 function changeHeight() {
     var windowHeight = $(window).height();
     var windowHeight50 = windowHeight * 50/100;
