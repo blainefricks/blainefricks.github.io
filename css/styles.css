@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.16";
+  content: "0.1.16.1";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -89,6 +89,7 @@ p {
   line-height: 2em;
   margin-bottom: 2em;
 }
+p:last-child {margin-bottom:0px;}
 .bg-black {background-color: #000 !important;}
 .bg-blue {background-color: #3087b4 !important;}
 .wrap {
