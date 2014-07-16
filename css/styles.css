@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.20";
+  content: "0.1.21";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -142,7 +142,7 @@ section.hero {
 section:last-child {
   background-color: #fff;
 }*/
-span#scrollDown {
+#scrollDown {
   cursor: pointer;
 }
 /*
