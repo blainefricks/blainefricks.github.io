@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.23";
+  content: "0.1.24";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -152,7 +152,7 @@ section:last-child {
   position: relative;
   display: block;
 }
-.project-item {
+ol.grid li {
   position: relative;
   display: inline-block;
   float: left;
@@ -160,25 +160,40 @@ section:last-child {
   min-height: 1px;
   margin: 0px 3.092783505155% 30px 0px;
 }
-.project-item:nth-child(4n) {
+ol.grid li:nth-child(4n) {
   margin-right: 0px;
-
 }
 @media screen and (max-width: 60em){ /* 960px */
-  .project-item {
-    width: 29%;}
+  ol.grid li {
+    width: 31%;
+  }
+  ol.grid li:nth-child(4n) {
+    margin-right: 3.092783505155%;
+  }
+  ol.grid li:nth-child(3n) {
+    margin-right: 0px;
+  }
 }
 @media screen and (max-width: 40em){ /* 640px */
-  .project-item {
-    width: 46%;
+  ol.grid li {
+    width: 48%;
+  }
+  ol.grid li:nth-child(3n) {
+    margin-right: 3.092783505155%;
+  }
+  ol.grid li:nth-child(2n) {
+    margin-right: 0px;
   }
 }
 @media screen and (max-width: 30em){ /* 480px */
-  .project-item {
+  ol.grid li {
     width: 100%;
   }
+  ol.grid li {
+    margin-right: 0px !important;
+  }
 }
-.project-item a {
+ol.grid li a {
   position: relative;
   display: block;
   min-height: 200px;
@@ -188,7 +203,7 @@ section:last-child {
 
 
 footer {
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
   left: 0;
