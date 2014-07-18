@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.24";
+  content: "0.1.25";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -203,7 +203,7 @@ ol.grid li a {
 
 
 footer {
-  position: relative;
+  position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
