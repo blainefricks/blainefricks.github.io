@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   right: 0;
-  content: "0.1.0.27";
+  content: "0.1.0.28";
   background-color: rgba(255,255,255,0.75);
   -ms-border-radius: 4px 0px 0px 0px;
       border-radius: 4px 0px 0px 0px;
@@ -124,7 +124,7 @@ nav {
   width: 100%;
   background-color: rgba(255,255,255,0.9);
 }
-nav.nav-stuck {
+nav.stuckNav {
   position: fixed;
   top: 0;
   z-index: 999;

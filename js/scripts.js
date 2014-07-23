@@ -18,4 +18,16 @@ $(document).ready(function(){
     scrollAmount = Math.round(scrollAmount);
     $('.has-parallax').css('backgroundPosition', '50% ' + scrollAmount + 'px');
   });
+  // Stick Nav
+  $(window).scroll(function() {
+    var $nav = $("nav");
+    var $stickNav = $('.stickNav');
+    var window_offset = $stickNav.offset().top - $(window).scrollTop();
+    if (window_offset < $nav.height()) {
+      $nav.addClass('stuckNav');
+    }
+    if (window_offset > $nav.height()) {
+      $nav.removeClass('stuckNav');
+    }
+ });
 });
