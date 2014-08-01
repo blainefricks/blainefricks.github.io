@@ -12,13 +12,18 @@ $(document).ready(function(){
     $("html, body").animate({
       scrollTop:$("#blog").offset().top},600)
   });
-  // Parallax
+});
+
+function parallax() {
   $(window).scroll(function() {
     var scrollAmount = $(window).scrollTop() / 5;
     scrollAmount = Math.round(scrollAmount);
     $('.has-parallax').css('backgroundPosition', '50% ' + scrollAmount + 'px');
   });
-  // Stick Nav
+}
+parallax();
+
+function stickyNav() {
   $(window).scroll(function() {
     var $nav = $("nav");
     var $stickNav = $('.stickNav');
@@ -30,4 +35,5 @@ $(document).ready(function(){
       $nav.removeClass('stuckNav');
     }
  });
-});
+}
+stickyNav();
