@@ -113,11 +113,13 @@ a {
   position: relative;
   padding-bottom: 119px;
 }
+nav ul,
+.content {max-width: 800px}
 nav,
 section,
 footer {
   width: 100%;
-  }
+}
 nav {
   position: relative;
   display: block;
@@ -132,7 +134,6 @@ nav.stuckNav {
 nav ul {
   position: relative;
   display: block;
-  max-width: 1340px;
   padding: 0px 30px;
   margin: 0px auto;
   color: #333;
@@ -155,7 +156,6 @@ nav li a:hover {
   transition: all .15s ease-in-out;
 }
 .content {
-  max-width: 1340px;
   margin: 0px auto;
   padding: 50px 15px;
   overflow: auto;
@@ -175,9 +175,18 @@ section.hero {
 */
 .location {
   position: absolute;
+  display: block;
   top: 0;
   right: 0;
   padding: 15px;
+}
+.location .table {
+  height: 50px;
+}
+img#bf-pic {
+  width: 75px;
+  margin-bottom: 30px;
+  border-radius: 50%;
 }
 
 /*
