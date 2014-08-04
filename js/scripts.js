@@ -6,11 +6,11 @@ $(document).ready(function(){
   });
   $("#scrollToProjects").click(function(){
     $("html, body").animate({
-      scrollTop:$("#projects").offset().top},600)
+      scrollTop:$("#projects").offset().top - 90},600)
   });
   $("#scrollToBlog").click(function(){
     $("html, body").animate({
-      scrollTop:$("#blog").offset().top},600)
+      scrollTop:$("#blog").offset().top - 90},600)
   });
 });
 
