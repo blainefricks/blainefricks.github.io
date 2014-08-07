@@ -9,7 +9,7 @@ function changeHeight() {
     $(".window-height50").css({
         "height": windowHeight50
     });
-    $(".page-holder").css({
+    $(".wrap").css({
       "padding-bottom" : footerHeight + 1,
       "min-height": windowHeight
     });
