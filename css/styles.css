@@ -120,6 +120,11 @@ section,
 footer {
   width: 100%;
 }
+section:before, section:after {
+content: " ";
+display: table;
+}
+section:after {clear: both;}
 nav {
   position: relative;
   display: block;
@@ -248,9 +253,28 @@ ol.grid li a {
 /*
 // Blog
 */
-h1.blog-title, .h1.blog-title {
+section.blog-hero,
+section.blog-article {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  width: 50%;
+  float: left;
+  text-align: left;
+}
+section.blog-hero {
+  left: 0;
+  color: #fff;
+}
+section.blog-article {
+  right: 0;
+  overflow-y: scroll;
+}
+.blog-title, .blog-title {
   font-size: 1.5em;
   margin-bottom: 2em;
+  color: #fff;
 }
 
 footer {
