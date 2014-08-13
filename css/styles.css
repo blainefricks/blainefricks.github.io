@@ -127,6 +127,9 @@ content: " ";
 display: table;
 }
 section:after {clear: both;}
+section {
+  position: relative;
+}
 nav {
   position: relative;
   display: block;
