@@ -9,10 +9,13 @@ function changeHeight() {
     $(".window-height50").css({
         "height": windowHeight50
     });
-    $(".wrap, section.blog-hero, section.blog-article").css({
+    $(".page-holder").css({
       "padding-bottom" : footerHeight + 1,
       "min-height": windowHeight
     });
+    $("section.blog-hero").css({
+        "min-height" : .5 * windowHeight
+    })
 }
 window.addEventListener('resize', changeHeight);
 changeHeight();
