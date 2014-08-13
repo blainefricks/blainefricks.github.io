@@ -259,17 +259,18 @@ ol.grid li a {
 /*
 // Blog
 */
-/*section.blog-hero,
-section.blog-article {
-  position: relative;
-}*/
 section.blog-hero {
   color: #fff;
 }
 .blog-title, .blog-title {
   font-size: 1.5em;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
+  line-height: 1.5em;
   color: #fff;
+}
+.blog-date {
+  margin-bottom: 0em;
+  font-size: 1em;
 }
 @media screen and (max-width: 60em){
   section.blog-hero {
