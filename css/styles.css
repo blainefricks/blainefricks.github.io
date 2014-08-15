@@ -262,6 +262,7 @@ ol.grid li a {
 section.blog-hero {
   color: #fff;
   background-size: cover;
+  background-position: 50% 0px;
 }
 .blog-title, .blog-title {
   font-size: 1.5em;
