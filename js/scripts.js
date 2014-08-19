@@ -34,7 +34,18 @@ function stickyNav() {
     if (window_offset > $nav.height()) {
       $nav.removeClass('stuckNav');
     }
- });
+  });
+  $(window).scroll(function() {
+    var $blogNav = $(".blog-nav");
+    var $stickNav = $('.stickNav');
+    var window_offset = $stickNav.offset().top - $(window).scrollTop();
+    if (window_offset < $blogNav.height()) {
+      $blogNav.addClass('stuckNav');
+    }
+    if (window_offset > $blogNav.height()) {
+      $blogNav.removeClass('stuckNav');
+    }
+  });
 }
 stickyNav();
 
@@ -54,7 +65,7 @@ function changeHeight() {
       "min-height": windowHeight
     });
     $("section.blog-hero").css({
-        "min-height" : .5 * windowHeight
+        "min-height" : .75 * windowHeight
     })
 }
 window.addEventListener('resize', changeHeight);
