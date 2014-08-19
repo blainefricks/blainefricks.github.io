@@ -24,9 +24,9 @@ function parallax() {
 parallax();
 
 function stickyNav() {
+  var $stickNav = $('.stickNav');
   $(window).scroll(function() {
     var $nav = $("nav");
-    var $stickNav = $('.stickNav');
     var window_offset = $stickNav.offset().top - $(window).scrollTop();
     if (window_offset < $nav.height()) {
       $nav.addClass('stuckNav');
@@ -37,7 +37,6 @@ function stickyNav() {
   });
   $(window).scroll(function() {
     var $blogNav = $(".blog-nav");
-    var $stickNav = $('.stickNav');
     var window_offset = $stickNav.offset().top - $(window).scrollTop();
     if (window_offset < $blogNav.height()) {
       $blogNav.addClass('stuckNav');
