@@ -279,7 +279,7 @@ ol.grid li a {
   color: #fff;
   z-index: 999;
 }
-.blog-nav.stuckNav {background-color: #3087b4;}
+.blog-nav.stuckNav {background-color: #000;}
 .blog-nav img#nav-menu {
   padding: 19.5px 15px;
   cursor: pointer;
